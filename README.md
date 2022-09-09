@@ -1,2 +1,2 @@
-# legendary-dollop
-CoT Bot işte
+# erensibot
+EQWWQSAOFJFJAPJGOPAKOSPPO ERENSİ KARDEŞİM UÇAK GELİYOR
