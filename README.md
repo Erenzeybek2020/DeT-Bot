@@ -1,3 +1,3 @@
 CoT Bot
 
-(100+ commands)
+(90+ commands)
