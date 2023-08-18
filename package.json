@@ -1,13 +1,13 @@
 {
-  "name": "erensibot",
+  "name": "detbot",
   "version": "4.0.0",
-  "description": "ErensiBOT Altyapısıdır Pardon ÇöpBOT :D",
+  "description": "det bot altyapısı.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "muratxq",
+  "author": "rex",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",
